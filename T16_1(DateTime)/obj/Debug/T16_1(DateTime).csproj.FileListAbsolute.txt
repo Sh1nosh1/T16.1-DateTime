@@ -1,0 +1,7 @@
+D:\ОАиП\T16_1(DateTime)\bin\Debug\T16_1(DateTime).exe.config
+D:\ОАиП\T16_1(DateTime)\bin\Debug\T16_1(DateTime).exe
+D:\ОАиП\T16_1(DateTime)\bin\Debug\T16_1(DateTime).pdb
+D:\ОАиП\T16_1(DateTime)\obj\Debug\T16_1(DateTime).csproj.AssemblyReference.cache
+D:\ОАиП\T16_1(DateTime)\obj\Debug\T16_1(DateTime).csproj.CoreCompileInputs.cache
+D:\ОАиП\T16_1(DateTime)\obj\Debug\T16_1(DateTime).exe
+D:\ОАиП\T16_1(DateTime)\obj\Debug\T16_1(DateTime).pdb
